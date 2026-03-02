@@ -1,0 +1,5 @@
+{
+  "name": "Floating TOTP Utility",
+  "description": "A floating utility for generating TOTP codes and random numeric text with clipboard integration.",
+  "requestFramePermissions": []
+}
